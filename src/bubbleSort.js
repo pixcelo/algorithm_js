@@ -1,4 +1,4 @@
-// bubble sort（バブルソート）
+// bubble sort
 // Align adjacent elements by comparing their sizes
 let data = [30, 10, 40, 90, 70, 20, 80];
 console.log("before ", data);
